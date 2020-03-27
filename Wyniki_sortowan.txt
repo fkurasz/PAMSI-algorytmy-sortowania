@@ -1,0 +1,28 @@
+RODZAJ SORTOWAÑ: 0 | 0-QS 1-MR 2-IS
+Rozmiar Tablicy: 0 | 0-10000 1-50000 2-100000 3-500000 4-1000000
+Procent poczatkowy: 0%
+0.153
+Procent poczatkowy: 25%
+0.142
+Procent poczatkowy: 50%
+0.143
+Procent poczatkowy: 75%
+0.113
+Procent poczatkowy: 95%
+0.097
+Procent poczatkowy: 99%
+0.063
+Procent poczatkowy: 99.7%
+0.076
+Procent poczatkowy: 100%
+0.055
+Rozmiar Tablicy: 1 | 0-10000 1-50000 2-100000 3-500000 4-1000000
+Procent poczatkowy: 0%
+0.921
+Procent poczatkowy: 25%
+0.798
+Procent poczatkowy: 50%
+0.774
+Procent poczatkowy: 75%
+0.706
+Procent poczatkowy: 95%
